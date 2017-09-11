@@ -1,0 +1,3 @@
+- hosts: kitchen-ansible
+  roles:
+    - user

@@ -1,0 +1,3 @@
+---
+- name: Dienst neu starten
+  service: name=sshd state=restarted
